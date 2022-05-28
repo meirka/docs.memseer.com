@@ -1,4 +1,4 @@
-Changelog
+# Changelog
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
