@@ -1,4 +1,7 @@
-# Use cases:
+# Use cases
+Different ways you can use memseer
+
+---
 
 ## Motorcycle
 
