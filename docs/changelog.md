@@ -3,7 +3,7 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
-### Version v.22.5.16:
+### Version 22.5.16:
 **Bug fix: origination date**
 
 The bug occurs when you set origination date of an item in to the future.
@@ -11,7 +11,7 @@ Item schedule calculates incorrectly and provide use with bad information.
 
 Now user can't pick a date in the future, only in the past. However, there is a manual override, which is not restricted at least for now.
 
-### Version v.22.5.2:
+### Version 22.5.2:
 **New feature: insufficient units of work**
 
 Now maintenance card displays an action due to insufficient units of work data (such as kilometers/miles/hours) .
@@ -22,7 +22,7 @@ Steps:
 - Given there are no prior events associated with the action
 - Navigate to dashboard and find the item, it should have a task with red icon, noting that sufficient information, 'please add current miles'
 
-### Version v.22.4.23:
+### Version 22.4.23:
 **New feature: maintenance card items for actions with insufficient events**
 
 Now maintenance card displays actions that can't be calculated due to insufficient event data.
@@ -34,7 +34,7 @@ Steps:
 - Navigate to dashboard and find the item, it should have a task with red icon, noting that sufficient data is missing for the action
 
 
-### Version v.22.3.29:
+### Version 22.3.29:
 **New feature: notes for actions**
 
 Now you can add notes to action, for example: include specification about the action.
