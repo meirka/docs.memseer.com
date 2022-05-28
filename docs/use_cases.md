@@ -1,3 +1,8 @@
+---
+layout: default
+nav_order: 2
+---
+
 # Use cases
 Different ways you can use memseer
 {: .fs-6 .fw-300 }

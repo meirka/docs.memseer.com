@@ -1,3 +1,8 @@
+---
+layout: default
+nav_order: 1
+---
+
 ## The Story
 
 [Memseer](https://memseer.com) is a product of my deep desire - I want everything running smoothly but without having to remember when and what to do in order to keep everything
