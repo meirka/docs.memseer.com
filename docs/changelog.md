@@ -7,7 +7,7 @@ Additions and updates to the Memseer
 **Bug fix: origination date**
 
 The bug occurs when you set origination date of an item in to the future.
-Item schedule calculates incorrectly and provide use with bad information.
+Item schedule calculates incorrectly and provides user with bad information.
 
 Now user can't pick a date in the future, only in the past. However, there is a manual override, which is not restricted at least for now.
 
