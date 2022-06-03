@@ -1,3 +1,8 @@
+---
+layout: default
+nav_order: 3
+---
+
 # How to sign up
 
 How to create a Memseer account 
