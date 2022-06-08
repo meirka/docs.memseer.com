@@ -4,7 +4,7 @@ nav_order: 2
 ---
 
 # Use cases
-Different ways you can use memseer
+Different ways you can use Memseer
 {: .fs-6 .fw-300 }
 ---
 

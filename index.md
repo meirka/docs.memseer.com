@@ -5,8 +5,7 @@ nav_order: 1
 
 ## The Story
 
-[Memseer](https://memseer.com) is a product of my deep desire - I want everything running smoothly but without having to remember when and what to do in order to keep everything
-running smoothly.
+[Memseer](https://memseer.com) is a product of my deep desire - I want everything running smoothly but without having to remember when and what to do.
 
 It all started years ago when I used to have a small car with an interference engine. Interference engine is an engine where valve and piston traverse the same
 space but are carefully timed so they never meet each other. The engine has a timing belt that controls the valves and if the belt breaks, bad things will
@@ -26,9 +25,9 @@ collected, managed and evaluated every weekend to figure out when and what chore
 
 I tried the above approach with very limited success, unhealthy amount of anxiety, and I still couldn't remember which air filter size to buy once I got to the
 store. Perhaps there is a better way, organize notes into digital binder. It is always in one place - any place you are at! You can access it from anywhere on
-any device. Notes don’t get lost, complete history is always available. You don’t need to review all the notes every weekend to see when and what chore needs
-to be done. As a matter of fact, you don’t even have to make notes anymore, only rules and all the chores show up in simple, minimal & easy to understand format.
-Now I don’t have to remember when it is time to take my car to the shop for maintenance. I don’t have to memorize air filter size. I don’t worry that I missed
+any device. Notes don’t get lost, complete history is always available. You don’t need to review all the notes every weekend to see when and what needs to
+be done. As a matter of fact, you don’t even have to make notes anymore, only rules and all the chores show up in simple & easy to understand format. Now I
+don’t have to remember when it is time to take my car to the shop for maintenance. I don’t have to memorize air filter size. I don’t worry that I missed
 something. All those small things are right in the palm of my hand.
 
 ## What’s Memseer?
