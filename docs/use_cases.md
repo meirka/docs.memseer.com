@@ -1,11 +1,10 @@
 ---
-layout: default
-nav_order: 2
+layout: default nav_order: 2
 ---
 
 # Use cases
-Different ways you can use Memseer
-{: .fs-6 .fw-300 }
+
+Different ways you can use Memseer {: .fs-6 .fw-300 }
 ---
 
 ## Motorcycle
@@ -21,9 +20,11 @@ months”. Now memseer will remind you to inspect the chain half a year after la
 In addition to that you might want to inspect the chain more frequently during a particular season (tough conditions or more frequent use), and so you can add
 new action as such: “inspect chain every 2 month between August and November”.
 
+---
+
 ## House
 
-You have a house and it requires some minimum level of maintenance. Every few month air filter needs to be replaced. Do you need to inspect smoke and fire
+You have a house, and it requires some minimum level of maintenance. Every few month air filter needs to be replaced. Do you need to inspect smoke and fire
 detectors once per year? Every 12 years or so water tank needs to be replaced and perhaps every 15-20 years shingles on the roof should be replaced. No one
 enjoys waking up one morning without hot water or water dripping from a top. So lets create a house item and set few actions to it.
 
@@ -44,6 +45,8 @@ water heater”.
 
 Now that everything is populated, you can see “my house” on the dashboard with information on each particular action: what is the action, when it should occur
 and last time the event took place. Everything is at the palm of your hand. Enjoy!
+
+---
 
 ## Lawn mower
 
@@ -72,6 +75,8 @@ When time come and you completed an action, lets say “clean air filter”, you
 ex.: 25 hours) and memseer will re-calculate all the action in order to provide you with approximate count down when next action is required. You don’t have
 keep hand-written notes and check it every time you are about to use the mower.
 
+---
+
 ## My cat (or any other pet)
 
 You got a cat, which needs to be looked after, periodically vaccinated, given anti-parasite medication and occasionally have its nails cut. Let’s create new
@@ -81,3 +86,30 @@ and a period from March to November. One more thing, it would be nice to have me
 for it if you need to purchase it again. Click on yellow icon “notes” and add all the information. Now click “done” and you will be returned to the dashboard.
 At this point you can start keeping a log of pet’s treatment. Click icon “checkbox” and enter a date when you gave your pet anti-parasite medication last time.
 Don’t forget to click “save”, so memseer remembers the information and calculates next date for the action.
+
+---
+
+## Health
+
+Health is one of the most precious things we got. We tend to not to think of it when everything is well but it is all we can think of, otherwise. Life is busy,
+we all get carried away and not every health provider remembers to get a hold of you for annual (or semiannual) checkup. Let’s take charge of it and setup
+yearly checkup with doctor, dentist and perhaps a blood donation.
+
+![](../assets/images/use_cases/health/add_new_item.png)
+
+Add new item and name it “my health”, you can add your own birthday (if you want). Let’s add following actions:
+
+* doctor checkup every 1 year
+* dental checkup every 1 year
+* donate blood every 1 year
+
+![](../assets/images/use_cases/health/new_item.png)
+
+Click “done” and new item is happy to report that some additional information is needed.
+
+![](../assets/images/use_cases/health/insufficient_info.png)
+
+It needs to know when was the last time you had checkups. Click red link, set the date of the last time you did checkup and click “save”. Repeat the step for
+all the missing information. Now you can track when was the last time you did checkups and/or when you should schedule (or expect) to have next one.
+
+![](../assets/images/use_cases/health/dashboard.png)
