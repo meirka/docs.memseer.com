@@ -92,7 +92,7 @@ Don’t forget to click “save”, so memseer remembers the information and cal
 
 ## Health
 
-Health is one of the most precious things we got. We tend to not to think of it when everything is well but it is all we can think of, otherwise. Life is busy,
+Health is one of the most precious things we got. We tend to not think of it when everything is well, but it is all we can think of, otherwise. Life is busy,
 we all get carried away and not every health provider remembers to get a hold of you for annual (or semiannual) checkup. Let’s take charge of it and setup
 yearly checkup with doctor, dentist and perhaps a blood donation.
 
@@ -110,7 +110,7 @@ Click “done” and new item is happy to report that some additional informatio
 
 ![](../assets/images/use_cases/health/insufficient_info_.png)
 
-It needs to know when was the last time you had checkups. Click red link, set the date of the last time you did checkup and click “save”. Repeat the step for
-all the missing information. Now you can track when was the last time you did checkups and/or when you should schedule (or expect) to have next one.
+It needs to know when was the last time you had checkups. Click red link, set the date of the last time you did checkup and click “save”. 
+Repeat this step two more times, and now you can track when was the last time you did checkups and/or when you should schedule (or expect) to have next one.
 
 ![](../assets/images/use_cases/health/dashboard_.png)
