@@ -1,5 +1,6 @@
 ---
-layout: default nav_order: 2
+layout: default 
+nav_order: 2
 ---
 
 # Use cases
