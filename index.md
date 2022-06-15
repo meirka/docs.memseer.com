@@ -14,7 +14,8 @@ A new way to organize
 ### Memseer keeps track of your things by remembering events and associated actions.
 
 At the core there are two functionalities: event creation - a record of what happened and actions associated to an event. Action describes when an event should
-be performed.\ `Example: event - donate blood, action - repeat every 6 month.`
+be performed.\
+`Example: event - donate blood, action - repeat every 6 month.`
 
 **Is Memseer a calendar?** No it is not. You can’t create meetings or appointments. Memseer doesn’t have hard dates or time allocations. If you miss a task, Memseer
 will not forget about it, unlike calendar.
