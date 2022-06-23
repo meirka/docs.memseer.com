@@ -3,6 +3,12 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 22.6.23:
+**Bug fix: incorrect units of work during import of an item**
+
+The bug occurs when you import an item with units of work such as hours or kilometers.
+Units of work are disregarded and set to "miles" instead.
+
 ### Version 22.5.16:
 **Bug fix: origination date**
 
