@@ -2,6 +2,25 @@
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
+### Version v.22.7.6:
+**Bug fix: incorrect spelling of email notification subject**
+
+_Incorrect_: "Late: something past due by 1 days!!!"
+
+_Correct_: "Late: something past due by 1 day!!!"
+
+**Add: documentation link**
+
+Link to documentation has been added to sign up page and in-app menu
+
+**Remove: quick action from quick event**
+
+Presence of quick action button during quick event is confusing, since quick event typically originates from existing action, 
+therefore, there is no point of adding or looking up the action. 
+
+**Change: email notification subject**
+
+Email notification subject will contain ⚠️ instead of !!!.
 
 ### Version 22.6.23:
 **Bug fix: incorrect units of work during import of an item**

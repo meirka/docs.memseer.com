@@ -32,3 +32,4 @@ suited for repeatable tasks.
 - Simple: record events, set actions, see dashboard
 - True data ownership: your data, import it, export it, take it anywhere you want
 - Anywhere: one site, email notification, mobile support
+- Easy planning: everything that needs attention at a glance
