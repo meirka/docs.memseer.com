@@ -2,7 +2,7 @@
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
-### Version v.22.7.6:
+### Version 22.7.6:
 **Bug fix: incorrect spelling of email notification subject**
 
 _Incorrect_: "Late: something past due by 1 days!!!"
