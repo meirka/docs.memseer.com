@@ -75,7 +75,7 @@ and last time the event took place. Everything is at the palm of your hand. Enjo
 You have gasoline lawn mower, like everything else it needs attention. For example: air filter needs to be cleaned every 25 hours of use. Oil change should be
 done every 50 hours of work or every 25 under heavy loads. Check grass bag every 100 hours of use and don’t forget to replace spark plug every 150 hours. In
 addition flywheel break pad, valve clearance and pinion gears should be check, adjusted and/or greased every 100 hours. Kinda long list to remember, but we can
-use memseer to keep track of each and every point.
+use Memseer to keep track of each and every point.
 
 Let’s add new item, give it a name “my lawn mower”, click “work units” and select “hours” from the dropdown. Let’s select “origination date” to manufacturing
 date, it can be approximated to a year if you don’t remember when it was purchased. Now it is time to set actions, click “+” under actions and populate fields
@@ -102,7 +102,7 @@ enter 5 and click “save”, back to the dashboard and you can see “my lawn m
 ![](../assets/images/use_cases/lawn_mower/schedule.png)
 
 When time comes and you completed an action, lets say “clean air filter”, you can click on check mark across the action on the dashboard, enter current hours (
-ex.: 25 hours) and memseer will re-calculate all the actions in order to provide you with approximate count down when next action is required. You don’t have
+ex.: 25 hours) and Memseer will re-calculate all the actions in order to provide you with approximate count down when next action is required. You don’t have
 keep hand-written notes and check it every time you are about to use the mower.
 
 ![](../assets/images/use_cases/lawn_mower/dashboard.png)
@@ -128,7 +128,7 @@ At this point you can start keeping a log of pet’s treatment. Click icon “ch
 
 ![](../assets/images/use_cases/cat/new_event.png)
 
-Don’t forget to click “save”, so memseer remembers the information and calculates next date for the action.
+Don’t forget to click “save”, so Memseer remembers the information and calculates next date for the action.
 
 ![](../assets/images/use_cases/cat/dashboard.png)
 
