@@ -2,6 +2,13 @@
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
+
+### Version 22.7.23:
+
+🌱 **Add: unicode support**
+
+Now you can name your items with unicode characters such as emoji 😃
+
 ### Version 22.7.6:
 🐞 **Bug fix: incorrect spelling of email notification subject**
 
